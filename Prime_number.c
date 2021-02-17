@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
     int n, i, m = 0, flag = 0;
